@@ -1,0 +1,79 @@
+                       _________________________
+
+                        COLLABORATION STATEMENT
+
+                                CS 2200
+                       _________________________
+
+
+
+
+
+Originality
+===========
+
+  In CS 2200, all projects are expected to be entirely your OWN work. By
+  answering YES to this question, you acknowledge that the work
+  contained within is entirely your own, and you did not engage in any
+  collaboration beyond what is stated as permitted in the course
+  syllabus.
+
+  ,----
+  | This project is my own work (type YES or NO): YES 
+  `----
+
+  If you answered YES above, but provided any classmates with a copy of
+  your code, please list them here:
+
+  ,----
+  | I provided a copy of my project to (list below separated by commas):
+  | 
+  `----
+
+
+Non-original submission for partial credit
+==========================================
+
+  If you did not complete the project on your own, you may still receive
+  some credit if you work with another student and disclose so below.
+
+  If you answered YES above, leave the remaining sections blank.
+
+
+I completed the project in a group
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  If you completed the project with another student, specify the group
+  members below. Your grade will be divided up evenly among the group.
+
+  ,----
+  | I completed this project in a group with one or more students 
+  | (type YES or NO): 
+  `----
+
+  All members should list one another below:
+
+  ,----
+  | List the members of the group (list below separated by commas):
+  | 
+  `----
+
+
+I did not complete the project, but have studied a classmate's solution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  You may still receive some credit (up to 25%) for demonstrating your
+  understanding of the project through another student's solution. You
+  must indicate you are using this option below.
+
+  ,----
+  | I did not complete the project, and am submitting a classmate's 
+  | solution (type YES or NO):
+  `----
+
+  Please indicate the classmate from which you received the solution.
+
+  ,----
+  | I received this solution from (type name below):
+  | 
+  `----

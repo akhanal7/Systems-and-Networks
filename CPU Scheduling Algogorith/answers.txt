@@ -1,0 +1,62 @@
+CS 2200 Spring 2017
+Project 4
+Name: Ankit Khanal
+GT Number: 903093845
+
+Problem 1B
+----------
+   CPU     Execution Time
+    1         67.8s
+    2         35.9s
+    4         33.3s
+
+There is no linear relationship between the number of CPU and total execution time. The results shows that the total execution time does not decrease linearly as number of CPU increases. This is because multiple process are executed at the same time when multiple CPU are used. This leads to the decrease in the execution time. 
+
+
+Problem 2B
+----------
+800 ms	
+	# of Context Switches: 136
+	Total execution time: 67.6 s
+	Total time spent in READY state: 325.4 s
+
+600 ms
+	# of Context Switches: 161
+	Total execution time: 67.6 s
+	Total time spent in READY state: 314.5 s
+
+400 ms
+	# of Context Switches: 203
+	Total execution time: 67.6 s
+	Total time spent in READY state: 298.8 s
+
+200 ms
+	# of Context Switches: 362
+	Total execution time: 67.5 s
+	Total time spent in READY state: 285.2 s
+
+The total waiting time decreases as the length of the time slice decreases. The number of switches increases. The execution time remains same because we only used 1 CPU for the test. The shortest time slice is not a good choice because the shortest time slice produces high overhead in terms of context switch. This may decrease the performance. Thus, time slice must be large with respect to context switch.
+
+
+Problem 3B
+----------
+FCFS
+# of Context Switches: 99
+Total execution time: 67.6 s
+Total time spent in READY state: 389.9 s
+
+RR 400 ms
+# of Context Switches: 203
+Total execution time: 67.6 s
+Total time spent in READY state: 298.8 s
+
+SRTF
+# of Context Switches: 141
+Total execution time: 67.6 s
+Total time spent in READY state: 354.7 s
+
+
+The SRTF scheduling algorithm is easy to simulate but it cannot be implemented in real life, because the scheduler requires accurate estimates of the run time of each process. Round Robin scheduler with a time slice 4 had the lowest waiting time because CPUs will spend time on processes equally. Since all the process are executed equally, the time spent on the ready state is decreased drastically. 
+
+
+
